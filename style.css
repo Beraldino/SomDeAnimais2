@@ -1,0 +1,31 @@
+body{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+}
+#header_div{
+    background-color: gray;
+    color: white;
+    letter-spacing: 1px;
+    font-size:20px;
+    
+    
+}
+body{
+    background-color: rgb(112, 228, 35);
+}
+#copy {
+    margin: auto;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    height: 60px;
+    
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+
+}
+
